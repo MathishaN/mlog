@@ -1,4 +1,4 @@
-# Hugo Northendlab Forestry starter
+# Test website with Hugo Northendlab Forestry starter
 
 [Northendlab theme](https://github.com/themefisher/northendlab-hugo) is developed by Themefisher.
 
